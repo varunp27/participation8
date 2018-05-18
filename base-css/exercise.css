@@ -1,0 +1,27 @@
+
+#first-header {
+    color: black;
+    font-family: 'Impact';
+}
+
+
+.second-header {
+    background-color: black;
+
+}
+
+
+
+
+h1, h2 {
+    padding: 10px;
+}
+
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+
